@@ -1,0 +1,3 @@
+# FoodyGo
+Introducing FoodyGO, where taste meets technology! Our frontend website, powered by HTML, CSS, and JavaScript, offers a delightful food ordering experience that's both visually appealing and user-friendly.
+FoodyGO boasts a visually striking design with HTML and CSS, featuring enticing food imagery, easy navigation, and a color palette that sets the mood for a culinary adventure. Our website is responsive across devices, ensuring a seamless experience. With a few clicks, you can explore restaurant options, customize orders, and receive real-time updates.
